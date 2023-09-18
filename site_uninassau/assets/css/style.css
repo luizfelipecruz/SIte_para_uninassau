@@ -1,0 +1,16 @@
+nav{
+    background-color:  rgba(255, 255, 0, 0.877);
+}
+.nav-item{
+font-style: italic;
+color: black;
+
+}
+#Contrato{
+    margin-top :7px;
+    font-style: italic;
+    border: 0px;
+    background-color: rgba(255, 255, 0, 0.877); ;
+}
+
+
